@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\MyWork\\GitWorkSpace\\StickyHeaderGridView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "C:\\MyWork\\GitWorkSpace\\StickyHeaderGridView\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\MyWork\\GitWorkSpace\\StickyHeaderGridView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\MyWork\\GitWorkSpace\\StickyHeaderGridView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\MyWork\\GitWorkSpace\\StickyHeaderGridView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\MyWork\\GitWorkSpace\\StickyHeaderGridView\\app\\src\\main\\res\\layout\\header.xml"
+    }
+]

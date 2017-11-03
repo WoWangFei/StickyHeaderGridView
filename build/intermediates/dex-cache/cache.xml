@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\MyWork\GitWorkSpace\StickyHeaderGridView\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a54509d14765d282d3e4bdebeb8efbc6644ea379">
+        <dex dex="C:\MyWork\GitWorkSpace\StickyHeaderGridView\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cf6859442202074672f09ea8853a31cfd177bdb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyWork\SDK\studiosdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\MyWork\GitWorkSpace\StickyHeaderGridView\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_716c3c00314978c28f55ea0d01d8fc7e7e2c5127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\MyWork\GitWorkSpace\StickyHeaderGridView\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3a13ca2098aaea4ea5a86787ed4436b6b2ecba53">
+        <dex dex="C:\MyWork\GitWorkSpace\StickyHeaderGridView\app\build\intermediates\pre-dexed\debug\instant-run_1ea1a1a7fcd0c57cda8f3011c08f6790bed036ff.jar" />
+    </item>
+
+</items>
